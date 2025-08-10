@@ -1,23 +1,15 @@
-# Virtual Environment
-# This folder is machine-specific and can be very large.
-# Others can recreate it using the requirements.txt file.
+
 venv/
 
-# Python cache files
-# These are auto-generated for performance and not needed in the repo.
+
 __pycache__/
 *.pyc
 
-# Editor/IDE specific settings
-# These are personal settings for your code editor.
+
 .vscode/
 .idea/
 
-# Environment variables
-# IMPORTANT: This file often contains secret keys and passwords.
-# Never commit this to a public repository!
+
 .env
 .flaskenv
 
-# macOS specific files
-.DS_Store
